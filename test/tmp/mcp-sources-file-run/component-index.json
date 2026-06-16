@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-06-16T15:38:26.457Z",
+  "fileCount": 0,
+  "componentCount": 2,
+  "components": [
+    {
+      "name": "Button",
+      "category": "other",
+      "filePath": "C:\\Users\\gregg\\development\\mcp-markdown\\test\\fixtures\\components\\Button.md",
+      "tags": [
+        "tags",
+        "input",
+        "action"
+      ],
+      "version": "1.2.0",
+      "author": "design-team",
+      "deprecated": false
+    },
+    {
+      "name": "RemoteChip",
+      "category": "other",
+      "filePath": "http://127.0.0.1:65210/RemoteChip.md",
+      "tags": [],
+      "version": null,
+      "author": null,
+      "deprecated": false
+    }
+  ]
+}

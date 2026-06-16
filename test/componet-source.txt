@@ -1,0 +1,4 @@
+./fixtures/components/Button.md
+./fixtures/components/Card.md
+./fixtures/components/DangerBanner.md
+./fixtures/components/RemoteChip.md
